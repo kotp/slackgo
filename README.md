@@ -8,7 +8,7 @@
       $ git clone https://github.com/IndianGuru/slackgo.git</li>
   <li><p>Make sure you are added to the Contributers list, You can do this by asking <a  href="http://github.com/IndianGuru">@indianguru</a> ( Satish Talim ) to add you.</p></li>
   <li><p>Create a folder in the root directory where you can save your code</p>
-      <p>Make sure the folder is in your name or follow the format <surName>_<firstName></p>
+      <p>Make sure the folder is in your name or follow the format &lt;surName&gt;_&lt;firstName&gt;</p>
   </li>
   <li>Lastly, add all you solutions to you folder and push to the repo</li>
 </ol>
