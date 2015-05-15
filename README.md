@@ -21,11 +21,12 @@ can post their solutions to the exerices in the book.
 working.
 
 Use [Go playground](https://play.golang.org) to paste and create the
-share-able links\*.
-
-\*Programs related to files won't work well with Go Playground, so don't
-have to create a link for those.
+share-able links<sup>[\*](#footnote1)</sup>
 
 **For any Queries feel free to contact us on
 [slack](https://gocourse.slack.com), everyone there is more than happy
 to help you out :)**
+
+- - - - -
+<a name="footnote1">\*</a>: Programs related to files won't work well
+with Go Playground, so don't have to create a link for those.
